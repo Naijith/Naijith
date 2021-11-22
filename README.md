@@ -18,16 +18,12 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/naijith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![](https://gitwar.herokuapp.com/badge?username=naijith&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/naijith/naijith/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naijith).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/naijith/naijith/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/naijith/naijith/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: gnaijith78@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/naijith/naijith/blob/master/resume.pdf).
