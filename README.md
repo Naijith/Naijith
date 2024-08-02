@@ -20,7 +20,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Java Spring boot Microservices, Python Django, DevOps, Cloud.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naijith).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/naijith/naijith/issues/)! I am happy to help.
