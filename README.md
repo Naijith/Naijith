@@ -14,10 +14,6 @@ Joined Github **3** years ago.
 
 Since then I pushed **1836**+ commits, opened **225**+ issues, submitted **249**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/naijith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java Spring boot Microservices, Python Django, DevOps, Cloud.
